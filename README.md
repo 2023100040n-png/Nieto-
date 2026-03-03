@@ -1,2 +1,2 @@
 # Nieto-
-I want to build and learn more about programming 
+I want to build more projects and to learn more about programming 
